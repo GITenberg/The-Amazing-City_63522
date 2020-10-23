@@ -1,11 +1,16 @@
 _repo: The-Amazing-City_63522
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63522-h/images/cover.jpg
 creator:
   author:
     agent_name: Macdonald, John Frederick
     gutenberg_agent_id: '52490'
     url: http://www.gutenberg.org/2009/agents/52490
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63522#The-Amazing-City
 gutenberg_issued: '2020-10-21'
 gutenberg_type: Text
 identifiers:
